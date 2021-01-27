@@ -1,1 +1,1 @@
-# knowledgemining
+# Knowledge Mining blog
