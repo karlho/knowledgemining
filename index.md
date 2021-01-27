@@ -2,10 +2,6 @@
 layout: default
 ---
 
-**Knowledge Mining**
-
-# [CV](cv.pdf)
-
 # Exploratory Data Analysis
 
 # Unsupervised learning
