@@ -1,3 +1,3 @@
-## Welcome to Karl Ho Knowledge Mining blog
+# Welcome to Knowledge Mining blog
 
 
