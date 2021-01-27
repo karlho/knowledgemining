@@ -1,3 +1,3 @@
-# Welcome to Knowledge Mining blog
+# Knowledge Mining
 
 
