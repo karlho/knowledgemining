@@ -6,4 +6,4 @@ layout: default
 
 ## [Lab01](Lab01.html)
 
-## [Lab02](https://raw.githubusercontent.com/karlho/knowledgemining/main/Lab02.html)
+## [Lab02](Lab02.html)
